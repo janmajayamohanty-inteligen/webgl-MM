@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400576492009",
+    "project_id": "mathmagica-125f9",
+    "storage_bucket": "mathmagica-125f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400576492009:android:c66847a5b8431dfcdb9b78",
+        "android_client_info": {
+          "package_name": "com.inteligen.mathmagica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400576492009-42vt950dhd7pmtsaj1i06k1m08tk0gep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inteligen.mathmagica",
+            "certificate_hash": "e59801424689cd108197c7e81ba768594b3d02e9"
+          }
+        },
+        {
+          "client_id": "400576492009-qh78oc6j359ra744iev8ucnc3frjv2j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inteligen.mathmagica",
+            "certificate_hash": "a424dad0cee42c34d38784d77f0ad120d8db95fb"
+          }
+        },
+        {
+          "client_id": "400576492009-vboas5s3d9obh1vp7mua1eetpbt34n8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJqU773Ewh5LoHm4RrzrZk3YwJ5hU2E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400576492009-vboas5s3d9obh1vp7mua1eetpbt34n8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
